@@ -1,12 +1,35 @@
-// Boleanos
+// boolean
 
-const primeiroNumero = 5;
-const segundoNumero = 10;
-let cadastroAtivado = false;
+const usuarioLogado = true;
+const contaPaga = false;
 
-console.log(primeiroNumero === segundoNumero);
+// Truthy e falsy
 
-const texto1 = 'Alura';
-const texto2 = 'alura';
+// 0 => false
+// 1 => true
 
-console.log(texto1 === texto2)
+console.log(0 == false)
+console.log("" == false)
+console.log(1 == true)
+
+//undefined => Não definido
+//null => Vazio ou nada
+
+let minhaVar;
+let varNull = null;
+
+console.log(minhaVar)
+console.log(varNull)
+
+let numero = 3;
+let texto = 'Alura';
+
+console.log(typeof numero)
+console.log(typeof texto)
+//typeof serve para perguntar ao JS qual tipo de dado que está sendo gravado
+
+console.log(minhaVar)
+console.log(varNull)
+
+console.log(typeof minhaVar)
+console.log(typeof varNull)
