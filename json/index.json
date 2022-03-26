@@ -1,0 +1,30 @@
+{
+    "Editora": "Livros123",
+    "Catalogo": [
+    
+    {
+        "id": "21",
+        "Titulo": "Repeteco",
+        "Autor": "Scott Pilgrim",
+        "Categoria": "HQ"
+    },
+    {
+        "id": "22",
+        "Titulo": "Nauzen",
+        "Autor": "Scott Pilgrim",
+        "Categoria": "HQ"
+    },
+    {
+        "id": "23",
+        "Titulo": "Pisca-Pisca",
+        "Autor": "Scott Pilgrim",
+        "Categoria": "Ação"
+    },
+    {
+        "id": "24",
+        "Titulo": "Sasazara",
+        "Autor": "Scott Pilgrim",
+        "Categoria": "Suspense"
+    }
+  ]
+}
